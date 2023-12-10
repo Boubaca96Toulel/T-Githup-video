@@ -6,6 +6,6 @@ def somme_nombres_pairs(liste):
     return somme
 
 # Exemple d'utilisation :
-ma_liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ma_liste = [1, 2, 3, 4,5]
 resultat = somme_nombres_pairs(ma_liste)
 print("La somme des nombres pairs dans la liste est :", resultat)
